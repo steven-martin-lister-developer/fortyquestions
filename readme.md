@@ -3,6 +3,7 @@
 ### Guides
 The following guides illustrate how to use some features concretely:
 
-* [Caching Data with Spring](https://spring.io/guides/gs/caching/)
-* [Accessing Data with JPA](https://spring.io/guides/gs/accessing-data-jpa/)
+*Client is the inital webview for this project
+*game is the api service for this project
+*within the game project there will be postgresql database scripts that will run on mvn builds
 
